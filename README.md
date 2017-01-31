@@ -8,8 +8,13 @@ A consolidated list of available resources for V2.
 
 ## SDKs
 
-- [https://github.com/moltin/php-sdk/tree/v2](PHP SDK)
-- [https://github.com/moltin/js-sdk/tree/master](JS SDK)
+- [PHP SDK](https://github.com/moltin/php-sdk/tree/v2)
+- [JS SDK](https://github.com/moltin/js-sdk/tree/master)
+
+## Misc
+
+- [Import Script](https://github.com/moltin/v2-import)
+- [OAS File](https://api.stoplight.io/v1/versions/AaBbDQngF7xRiQdyf/export/oas.json)
 
 
 
