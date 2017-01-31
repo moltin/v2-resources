@@ -1,4 +1,4 @@
-# v2-resources
+# V2 Resources
 
 A consolidated list of available resources for V2.
 
