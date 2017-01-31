@@ -2,8 +2,8 @@
 
 A consolidated list of available resources for the Moltin V2 API.
 
-- [https://accounts.moltin.com](Account Management)
-- [https://moltin.api-docs.io/v2.0.0](V2 API reference)
+- [Account Management](https://accounts.moltin.com)
+- [V2 API reference](https://moltin.api-docs.io/v2.0.0)
 
 ## SDKs
 
